@@ -6,8 +6,8 @@
 
 *Crafting seamless mobile experiences one app at a time*
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/ihebowski)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iheb-barrah)
 
 </div>
 
